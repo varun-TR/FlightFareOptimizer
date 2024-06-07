@@ -5,7 +5,7 @@ In the highly competitive travel industry, pricing strategies can significantly 
 ## Technologies Used:
 Programming Languages: Python 
 
-Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Shutil, Sklearn(scikit learn)
 
 Tools: Jupyter Notebook, GitHub
 
